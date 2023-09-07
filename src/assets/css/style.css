@@ -38,6 +38,7 @@ h1 {
 .cpf-value {
   color: rgb(8, 49, 49);
   font-size: 30px;
+  font-weight: bold;
   text-align: center;
 }
 
